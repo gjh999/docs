@@ -2,6 +2,9 @@
 
 저장소 `gjh999/docs` · Pages: **Branch `main`**, Folder **`/docs`**
 
+**Google Play 앱 ID(패키지명):** `kr.co.jennysoft.qbop` — 예전 `com.dangbab.app` 은 사용하지 않습니다.  
+`Qbap` 저장소의 `docs/legal/*.html` 을 수정한 뒤 **동일 경로로 `gjh999/docs` 에 커밋·푸시**해야 Pages URL에 반영됩니다.
+
 ## Play Console에 넣을 URL (한국어)
 
 ```
